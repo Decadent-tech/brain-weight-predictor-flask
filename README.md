@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python app.py
 
 
-**## ✅ `.gitignore`**
+## ✅ `.gitignore`
 ```txt
 __pycache__/
 *.pyc
